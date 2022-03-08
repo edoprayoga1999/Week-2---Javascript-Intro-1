@@ -1,5 +1,5 @@
 const biodata = {
-    nama: "Edo Prayoga",
+    name: "Edo Prayoga",
     age: 22,
     hobbies: ["Coding","Swimming","Gaming"],
     isMarried: false,
